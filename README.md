@@ -33,6 +33,7 @@ Deve ser enviado ao programa no exato padrão de `ação`, `linha` e `coluna`, s
 | OBS.: Utilizar o comando `flag` em uma célula que já contém bandeira `removerá` a bandeira da mesma!
 
 Assim que encerrado, o jogo deve te parabenizar por vencer o jogo e te mostrar uma última vez a grade, com as células seguras reveladas!
+
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e8f3cf1c-27fa-4ec7-b3a6-ede673356cc9" />
 
 ## Instalação
