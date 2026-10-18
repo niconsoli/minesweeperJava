@@ -40,7 +40,7 @@ Assim que encerrado, o jogo deve te parabenizar por vencer o jogo e te mostrar u
 
 | Passo a passo para realizar a instalação deste Campo Minado <b>sem Git!</b>
 
-- Acesse os [`releases`](https://github.com/niconsoli/campominado/releases);
+- Acesse os [`releases`](https://github.com/niconsoli/minesweeperJava/releases);
 - Realize o download do jar mais atualizado;
 - Abra o terminal;
 - Digite `java -jar [caminho-do-arquivo]`;
